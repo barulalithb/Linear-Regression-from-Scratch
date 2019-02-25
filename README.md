@@ -32,7 +32,7 @@ n= number of values in x or y
 
 Slope of the given regression line can be determined by the formula,
 
-m=frac{n.\sumxy-\sum x\sum y\}{n.\sumx^2-(\sumx)^2 } 
+m=$frac{n.\sumxy-\sum x\sum y\}{n.\sumx^2-(\sumx)^2 }$ 
 The intercept of the given regression line can be determined by the formula,
 	
  c=mean(y)-m.mean(x)
