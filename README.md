@@ -7,4 +7,4 @@ we divide the complete code into two classes,
   1. Linear Regression from Scratch
   2. Linear Regression from sklearn(Machine Learning Library in python).
 ```
-$y=m.x+c$
+$$y=m.x+c$$
