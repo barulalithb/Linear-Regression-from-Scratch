@@ -7,4 +7,4 @@ we divide the complete code into two classes,
   1. Linear Regression from Scratch
   2. Linear Regression from sklearn(Machine Learning Library in python).
 ```
-[Linear Regresion](https://github.com/LalithBharadwaj/Linear-Regression-from-Scratch/blob/master/_Linear-Regression-from-Scratch.pdf)[/Linear Regresion]
+[Linear Regresion](https://github.com/LalithBharadwaj/Linear-Regression-from-Scratch/blob/master/_Linear-Regression-from-Scratch.pdf)
