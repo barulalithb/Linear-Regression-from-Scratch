@@ -1,0 +1,5 @@
+1. https://en.wikipedia.org/wiki/Linear_regression
+2. https://en.wikipedia.org/wiki/Coefficient_of_determination
+3. https://matplotlib.org/api/pyplot_api.html
+4. https://seaborn.pydata.org/generated/seaborn.residplot.html
+5. https://machinelearningmastery.com/how-machine-learning-algorithms-work/
