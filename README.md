@@ -19,4 +19,4 @@ we divide the complete code into two classes,
 
 ![](https://github.com/LalithBharadwaj/Linear-Regression-from-Scratch/blob/master/6.png)
 
-[embed]https://github.com/LalithBharadwaj/Linear-Regression-from-Scratch/blob/master/_Linear-Regression-from-Scratch.pdf[/embed]
+[embed](https://github.com/LalithBharadwaj/Linear-Regression-from-Scratch/blob/master/_Linear-Regression-from-Scratch.pdf)[/embed]
