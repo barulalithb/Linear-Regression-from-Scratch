@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 25 01:24:36 2019
 
-@author: Lalith
+@author: Lalith Bharadwaj
 """
 
 #Loading Essestial Libraries
@@ -15,7 +15,7 @@ from sklearn.model_selection import train_test_split
 #from sklearn.metrics import r2_score
 import matplotlib.patches as mpatches
 
-#finding the intercept of linear regression line
+#finding the Slope of linear regression line
 def Slope(a,b):
     n=len(a)
     two_sum=np.sum(a*b)
@@ -25,7 +25,7 @@ def Slope(a,b):
     slope=(n*two_sum-sumX*sumY)/(n*sumX_2-(sumX)**2)
     return slope
 
-#Finding slope of linear regression line
+#Finding Intercept of linear regression line
 def Intercept(a,b):
     intercept=np.mean(b)-Slope(a,b)*np.mean(a)
     return intercept
@@ -138,6 +138,10 @@ sns.set(style="whitegrid")
 rs = np.random.RandomState(7)
 #Plot the residuals after fitting a linear model
 sns.residplot(X, Y, lowess=True, color="r")
+plt.title('Residual Plot')
+plt.show()
+
+#--------------------------------------------------------------#
 
 
 
